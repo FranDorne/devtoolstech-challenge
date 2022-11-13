@@ -1,7 +1,8 @@
-Se debe crear una página con un listado de productos teniendo como referencia el siguiente diseño y usando un framework/libreria de JavaScript como Vue o React. Podes diseñarla de la manera que quieras y agregar cualquier feature que consideres necesario. 
+You can try the challenge live in this Link: https://devtoolstech-challenge.vercel.app/
 
-Requerimentos funcionales:
+You must create a page with a list of products having as reference the following design and using a JavaScript framework/library such as Vue or React. You can design it the way you want and add any feature you consider necessary. 
 
--Posibilidad de aplicar múltiples filtros a la vez como rango de precio, color, calificación, etc.
+Functional requirements:
 
-Link de la app funcionando: https://devtoolstech-challenge.vercel.app/
+-Possibility to apply multiple filters at once such as price range, color, rating, etc.
+
